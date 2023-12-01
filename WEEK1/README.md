@@ -12,10 +12,8 @@
 |22945|     [팀 빌딩](https://www.acmicpc.net/problem/22945)     |         |                                |          |                  |
 |20207|      [달력](https://www.acmicpc.net/problem/20207)      |         |                                |          |                  |
 |21943|    [연산 최대로](https://www.acmicpc.net/problem/21943)    |         |                                |          |                  | 
-|2573|      [빙산](https://www.acmicpc.net/problem/2573)       |         |                                |          |                  | 
+|2573|      [빙산](https://www.acmicpc.net/problem/2573)       |    ✅     |    [풀이](./BOJ_2573_빙산.java)    | 23.12.01 |      `bfs`       | 
 |21922|       [학부 연구생 민상](https://www.acmicpc.net/problem/21922)       |    ✅    | [풀이](./BOJ_21922_학부연구생민상.java) | 23.11.30 |       `구현`       |
 
-
-### 새롭게 알게된 개념
 
 
