@@ -51,7 +51,6 @@ public class BOJ_21609_상어중학교 {
     static int MAX_RAINBOW_CNT;
 
     // 결과
-    static boolean flag; // 유효한 값
     static int resultPoint = 0;
 
     // 맵 유효성 검사
