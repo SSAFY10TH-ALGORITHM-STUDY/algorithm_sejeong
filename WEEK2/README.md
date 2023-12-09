@@ -6,7 +6,7 @@
 |21609| [상어 중학교](https://www.acmicpc.net/problem/21609) | ✅  | [풀이](./BOJ_21609_상어중학교.java) | 23.12.07 | `simulation`, `bfs` | 15604 | 120 |
 |1106| [호텔](https://www.acmicpc.net/problem/1106) |   |   |  |        | | |
 |2533| [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |    |    |  |       |  | |
-|2164| [카드 2](https://www.acmicpc.net/problem/2164) |  |   |  |     |  | |
+|2164| [카드 2](https://www.acmicpc.net/problem/2164) |  ✅  | [풀이](./BOJ_2164_카드2.java)  | 23.12.09 |  `queue`   | 23780 | 124 |
 |5052| [전화번호 목록](https://www.acmicpc.net/problem/5052) |   |      |  |        | | |
 |21275| [폰 호석만](https://www.acmicpc.net/problem/21275) |  |   |  |       | | |
 |4659| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) |    |      |  |      | | |
