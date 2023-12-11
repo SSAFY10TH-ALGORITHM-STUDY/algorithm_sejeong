@@ -12,12 +12,14 @@
 |4659| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) |  ✅  |  [풀이](./BOJ_4659_비밀번호발음하기.java)  | 23.12.10 |  `string`, `simulation`    | 11316 | 72 |
 |1749| [점수따먹기](https://www.acmicpc.net/problem/1749) |    |       |  |        | | |
 |16719| [ZOAC](https://www.acmicpc.net/problem/16719) |  ✅    | [풀이](./BOJ_16719_ZOAC.java)   | 23.12.10 |  `dfs`    | 11576 | 80 |
-|19637| [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |    |         |  |  | | |
+|19637| [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |   ✅   |  [풀이](./BOJ_19637_IF문좀대신써줘.java)       | 23.12.11 | `binary search` | 64280 | 508 |
 |7453| [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) |    |  |  |       | | |
 
 
 <br>
+
 ### 코테에 필요한 자바 문법
+
 1. String으로 입력 받은 값 char List로 치환하기
 ```java
 char [] chars = str.toCharArray();
