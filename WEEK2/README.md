@@ -4,7 +4,7 @@
 |:----:|:-----------------------------------------------------:|:-:|:----------------------------------------:|:--------:|:-----------:|:----------:|:---------:|
 |17413| [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | ✅ | [풀이](./BOJ_17413_단어뒤집기2.java) | 23.12.06 | `stack` | 23212 | 216 |
 |21609| [상어 중학교](https://www.acmicpc.net/problem/21609) | ✅  | [풀이](./BOJ_21609_상어중학교.java) | 23.12.07 | `simulation`, `bfs` | 15604 | 120 |
-|1106| [호텔](https://www.acmicpc.net/problem/1106) |   |   |  |        | | |
+|1106| [호텔](https://www.acmicpc.net/problem/1106) |  ✅   | [풀이](./BOJ_1106_호텔.java)  | 23.12.12 |   `dp`   | 11604 | 80 |
 |2533| [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |    |    |  |       |  | |
 |2164| [카드 2](https://www.acmicpc.net/problem/2164) |  ✅  | [풀이](./BOJ_2164_카드2.java)  | 23.12.09 |  `queue`   | 23780 | 124 |
 |5052| [전화번호 목록](https://www.acmicpc.net/problem/5052) | ✅  |  [풀이](./BOJ_5052_전화번호목록.java)    | 23.12.09 |    `string`   | 31540  | 596 |
@@ -31,4 +31,9 @@ Arrays.sort(array);
 3. 시작 문자열과 일치여부 비교
 ```java
 str1.startsWith(str2);
+```
+
+4. 배열 채우기
+```java
+Arrays.fills(array, Integer.MAX_VALUE);
 ```
