@@ -10,7 +10,7 @@
 |5052| [전화번호 목록](https://www.acmicpc.net/problem/5052) | ✅  |  [풀이](./BOJ_5052_전화번호목록.java)    | 23.12.09 |    `string`   | 31540  | 596 |
 |21275| [폰 호석만](https://www.acmicpc.net/problem/21275) |  |   |  |       | | |
 |4659| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) |  ✅  |  [풀이](./BOJ_4659_비밀번호발음하기.java)  | 23.12.10 |  `string`, `simulation`    | 11316 | 72 |
-|1749| [점수따먹기](https://www.acmicpc.net/problem/1749) |    |       |  |        | | |
+|1749| [점수따먹기](https://www.acmicpc.net/problem/1749) |   ✅  |  [풀이](./BOJ_1749_점수따먹기.java)     | 23.12.12  |  `prefixSum`   | 19216 | 828 |
 |16719| [ZOAC](https://www.acmicpc.net/problem/16719) |  ✅    | [풀이](./BOJ_16719_ZOAC.java)   | 23.12.10 |  `dfs`    | 11576 | 80 |
 |19637| [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |   ✅   |  [풀이](./BOJ_19637_IF문좀대신써줘.java)       | 23.12.11 | `binary search` | 64280 | 508 |
 |7453| [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) |    |  |  |       | | |
