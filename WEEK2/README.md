@@ -8,7 +8,7 @@
 |2533| [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) |    |    |  |       |  | |
 |2164| [카드 2](https://www.acmicpc.net/problem/2164) |  ✅  | [풀이](./BOJ_2164_카드2.java)  | 23.12.09 |  `queue`   | 23780 | 124 |
 |5052| [전화번호 목록](https://www.acmicpc.net/problem/5052) | ✅  |  [풀이](./BOJ_5052_전화번호목록.java)    | 23.12.09 |    `string`   | 31540  | 596 |
-|21275| [폰 호석만](https://www.acmicpc.net/problem/21275) |  |   |  |       | | |
+|21275| [폰 호석만](https://www.acmicpc.net/problem/21275) | ✅ | [풀이](./BOJ_21275_폰호석만.java)  | 23.12.13  | `math` |  14480     | 152 |
 |4659| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) |  ✅  |  [풀이](./BOJ_4659_비밀번호발음하기.java)  | 23.12.10 |  `string`, `simulation`    | 11316 | 72 |
 |1749| [점수따먹기](https://www.acmicpc.net/problem/1749) |   ✅  |  [풀이](./BOJ_1749_점수따먹기.java)     | 23.12.12  |  `prefixSum`   | 19216 | 828 |
 |16719| [ZOAC](https://www.acmicpc.net/problem/16719) |  ✅    | [풀이](./BOJ_16719_ZOAC.java)   | 23.12.10 |  `dfs`    | 11576 | 80 |
