@@ -9,8 +9,8 @@
 |20058| [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) |  ✅  | [풀이](./BOJ_20058_마법사상어와파이어스톰.java) | 12.12.15 | `simulation` | 55760 | 440 |
 |1874| [스택 수열](https://www.acmicpc.net/problem/1874) | ✅ | [풀이](./BOJ_1874_스택수열.java) | 23.12.16 | `stack` | 28648 | 316 |
 |1976| [여행 가자](https://www.acmicpc.net/problem/1976) | ✅ | [풀이](./BOJ_1976_여행가자.java) | 23.12.16 | `union-find` | 15588 | 136 |
-|22865| [가장 먼 곳](https://www.acmicpc.net/problem/22865) |  |  |  |  |  |  |
-|2470| [두 용액](https://www.acmicpc.net/problem/2470) |  |  |  |  |  |  |
+|22865| [가장 먼 곳](https://www.acmicpc.net/problem/22865) | 🤔 | [풀이](./BOJ_1976_가장먼곳.java) | 23.12.17 | `dijkstra` |  |  |
+|2470| [두 용액](https://www.acmicpc.net/problem/2470) |  ✅  | [풀이](./BOJ_2470_두용액.java) | 23.12.18 | `two pointer` | 31316 | 284 |
 |10844| [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |  |  |  |  |  |  |
-|2473| [세 용액](https://www.acmicpc.net/problem/2473) |  |  |  |  |  |  |
+|2473| [세 용액](https://www.acmicpc.net/problem/2473) | ✅ | [풀이](./BOJ_2473_세용액.java) | 23.12.18 | `two pointer` | 13552 | 196 |
 |11657| [타임머신](https://www.acmicpc.net/problem/11657) |  |  |  |  |  |  |
