@@ -43,10 +43,10 @@ public class BOJ_2470_두용액 {
             solutionList[idx] = Integer.parseInt(st.nextToken());
         }
 
-        // 1. 이분탐색을 위한 정렬
+        // 1. 투포안터 위한 정렬
         Arrays.sort(solutionList);
 
-        // 2. 이분탐색 진행 대상 값
+        // 2. 투포인터 진행 대상 값
         int start = 0;
         int end = solutionList.length -1;
         int mixedSolution;

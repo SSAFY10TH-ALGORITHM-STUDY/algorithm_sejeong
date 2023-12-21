@@ -38,7 +38,6 @@ public class BOJ_1976_여행가자 {
     }
 
     public static int find(int element){
-
         // 부모가 자기 자신이라면, element 리턴
         if (parents[element] == element)
             return element;
