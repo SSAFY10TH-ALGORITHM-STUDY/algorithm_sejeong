@@ -4,4 +4,5 @@
 |:----:|:-----------------------------------------------------:|:-:|:----------------------------------------:|:--------:|:-----------:|
 |42577| [해시/전화번호목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=java#) | ✅ | [풀이](./PGMS_42577_전화번호목록.java) | 23.12.21 | `해시` |
 |42578| [해시/의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=java)| ✅ | [풀이](./PGMS_42578_의상.java)| 23.12.22 |`해시`|
-|42586| [스택큐/기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=java)| ✅ | [풀이](./PGMS_42586_기능개발.java)| 23.12.24 |`스택/큐`| 
+|42586| [스택큐/기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=java)| ✅ | [풀이](./PGMS_42586_기능개발.java)| 23.12.24 |`스택/큐`|
+|42586| [스택큐/올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=java)| ✅ | [풀이](./PGMS_12909_올바른괄호.java)| 23.12.25 |`스택/큐`| 
