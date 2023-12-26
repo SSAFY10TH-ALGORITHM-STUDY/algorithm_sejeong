@@ -10,9 +10,13 @@
 |42746| [정렬/가장큰수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | ✅ | [풀이](./PGMS_42746_가장큰수.java) | 23.12.26 | `정렬` | 
 |42747| [정렬/H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=java) | ✅ | [풀이](./PGMS_42747_HIndex.java) | 23.12.26 | `정렬` |
 |42842| [완전탐색/카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | ✅ | [풀이](./PGMS_42842_카펫.java) | 23.12.26 | `완전탐색` | 
-|
-피로도
+|87046| [완전탐색/피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=java) | ✅ | [풀이](./PGMS_87946_피로도.java) | 23.12.26 | `완전탐색` | 
+|42628| [힙/이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628?language=java) | ✅ | [풀이](./PGMS_42628_이중우선순위큐.java)| 23.12.26 | `힙`|
+|42628| [힙/디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627?language=java) | ✅ |  | | |
+|42628| [힙/이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | | | | |
+
+
+
 소수찾기
-카펫
 디스크컨트롤러
 이중우선순위큐
