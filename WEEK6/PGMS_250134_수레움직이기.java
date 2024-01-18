@@ -4,12 +4,17 @@ import java.util.*;
 import java.awt.*;
 
 /*
-턴에서 발생할 수 있는 모든 경우의 수를 고려해야한다.
+한 턴에서 발생할 수 있는 모든 경우의 수를 고려해야한다.
+
+16가지 케이스에서 불가능한 것을 제외하고 계속 한 턴 씩 돌아갈 때마다 찾으면서 내려가야된다.
+
 상하좌우 * 상하좌우 = 16가지
-불가능 경우
+[불가능 경우]
 1. 기본적인 탐색
 2. 두 수레가 동시에 같은 위치로 이동했을 때
+ => 동일한 좌표라면, 그 위치는 이동 불가능
 3. 두 수레의 위치가 스위치 되었을 때
+=? A와 B 수레의 위치가 뒤바뀐 위치라면 이동 불가능
 주의
 1. 자신의 도착지점에 들어온 수레는 더 이상 움직일 수 없다.
 
@@ -50,12 +55,11 @@ class Solution {
     // 불가능을 확인한다.
     // 불가능에 필요한 정보 : 현재 수레 / 다음 수레
     public boolean check(Point red, Point nextRed, Point blue, Point nextBlue){
-
-
         // 1. 기본 탐색
         if (red.x < 0 || red.y < 0 || red.x >= rowSize || red.y >= colSize
                 || blue.x < 0 || blue.y < 0 || blue.x >= rowSize || blue.y >= colSize)
             return false;
+        // 2. 벽에 마주쳤을 때 실패
         if (maze[red.x][red.y] == WALL || maze[blue.x][blue.y] == WALL)
             return false;
 
